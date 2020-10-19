@@ -1,7 +1,7 @@
-## Title 
-ReadMe Generator
+## ReadMe Generator 
+
       
-##Description 
+## Description 
 The ReadMe Generator will ensure you have everything you need for a great ReadMe.
 
  ## Badges
